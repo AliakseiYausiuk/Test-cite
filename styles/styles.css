@@ -98,6 +98,7 @@
   color: #fff;
   font-size: 56px;
   margin-bottom: 30px;
+  line-height: 60px;
 }
 
 .content__text {
@@ -109,7 +110,7 @@
 .content__btn-item {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 15px;
 }
 .content__btn1 {
   background-color: #22a45a;
@@ -124,8 +125,15 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  color: #fff;
   background-color: transparent;
   border: none;
+}
+.content__btn2 p {
+  color: #fff;
   font-size: 16px;
+}
+
+.content__btn2 img {
+  width: 25px;
+  height: 25px;
 }
