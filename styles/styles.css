@@ -89,8 +89,6 @@
 }
 .content__info {
 }
-.content__video {
-}
 
 .content__title {
   font-family: "Poppins", sans-serif;
@@ -136,4 +134,9 @@
 .content__btn2 img {
   width: 25px;
   height: 25px;
+}
+
+.content__video {
+  width: 600px;
+  height: 654px;
 }
